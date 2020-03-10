@@ -4,7 +4,7 @@ WinPython License Agreement (MIT License)
 -----------------------------------------
 
 Copyright (c) 2012-2013 Pierre Raybaut
-Copyright (c) 2014-2019+  The Winpython development team https://github.com/winpython/
+Copyright (c) 2014-2020+  The Winpython development team https://github.com/winpython/
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -28,6 +28,6 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 """
 
-__version__ = '2.0.20190519'
+__version__ = '2.3.20200307'
 __license__ = __doc__
 __project_url__ = 'http://winpython.github.io/'
